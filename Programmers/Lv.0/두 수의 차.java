@@ -1,3 +1,15 @@
+/**
+ * fileName : 두 수의 차.java
+ * author :  한찬영
+ * date : 2023-03-05
+ * description :
+ * ===========================================================
+ * DATE                 AUTHOR                NOTE
+ * -----------------------------------------------------------
+ * 2023-03-05            한찬영             최초 생성
+ * 2023-03-05            한찬영             주석 추가
+ */
+
 class Solution {
     public int solution(int num1, int num2) {
         int answer = 0;
