@@ -1,5 +1,5 @@
 /**
- * fileName : 두 수의 곱.java
+ * fileName : 나머지 구하기.java
  * author :  한찬영
  * date : 2023-03-05
  * description :
