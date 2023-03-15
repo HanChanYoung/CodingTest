@@ -1,5 +1,5 @@
 /**
- * fileName : 개미 군단.java
+ * fileName : 모스부호(1).java
  * author :  한찬영
  * date : 2023-03-15
  * description :
@@ -7,6 +7,7 @@
  * DATE                 AUTHOR                NOTE
  * -----------------------------------------------------------
  * 2023-03-15            한찬영             최초 생성
+ * 2023-03-15            한찬영             fileName 변경
  */
 
 class Solution {
