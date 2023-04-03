@@ -1,5 +1,5 @@
 /**
- * fileName : 평균 구하기.py
+ * fileName : 짝수와 홀수.py
  * author :  한찬영
  * date : 2023-04-03
  * description :
